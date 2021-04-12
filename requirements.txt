@@ -1,0 +1,9 @@
+notebook
+numpy
+pandas
+matplotlib
+keras
+h5py
+seaborn
+plotly
+sklearn_pandas
